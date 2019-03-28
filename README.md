@@ -3,7 +3,7 @@
 This repository is made to help you with the final assingment. Here I will put code that we develop over the last weeks of the semester. You are free to take and apapt content from here for your project.
 
 # Links
--Tutorial:
+- Tutorial:
 https://www.youtube.com/watch?v=TT7ufOKX-U4
 
 - To improve the look of the quiz, it might be nicer to write the results to different elements of the site. Here are a few hints on how to edit html elements through javascript: 
