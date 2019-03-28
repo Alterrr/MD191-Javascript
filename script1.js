@@ -1,4 +1,4 @@
-function startQuiz () {
+
 var quiz = [
   [1, "Question 1", "1"],
   [2, "Question 2", "2"],
@@ -9,6 +9,7 @@ var answer;
 var response;
 var cor = 0;
 
+function runQuiz() {
 for(var i = 0; i < (quiz.length+1); i += 1){
 //document.write(i);
 if (i===quiz.length){
@@ -19,10 +20,18 @@ if (i===quiz.length){
     
   if (response === quiz[i][2]){
       cor +=1;
-      document.write(`<h2>You got question ${quiz[i][0]} right</h2>`);
+      document.getElementById("p1").innerHTML = `<h2>You got question ${quiz[i][0]} right</h2>`;
+      //document.write();
   }else {
       document.write(`<h2>You got question ${quiz[i][0]} wrong</h2>`);
   }
 }
 }
-}
+return;}
+
+
+
+
+
+
+
