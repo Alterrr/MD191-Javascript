@@ -8,4 +8,5 @@ https://www.w3schools.com/js/js_htmldom_html.asp
 
 - Those popups are not the nicest way of building a quiz, look at how to read content from forms: 
 https://www.w3schools.com/js/tryit.asp?filename=tryjs_form_submit
+
 https://www.w3schools.com/js/js_input_examples.asp
