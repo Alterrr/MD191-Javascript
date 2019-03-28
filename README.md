@@ -13,3 +13,6 @@ https://www.w3schools.com/js/js_htmldom_html.asp
 
 - Those popups are not the nicest way of building a quiz, look at how to read content from forms: 
 https://www.w3schools.com/js/tryit.asp?filename=tryjs_form_submit  and a general of how to input stuff from the site to the script: https://www.w3schools.com/js/js_input_examples.asp
+
+-JsFiddle
+useful online editor for html and javascript https://jsfiddle.net/
