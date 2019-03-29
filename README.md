@@ -19,4 +19,5 @@ useful online editor for html and javascript https://jsfiddle.net/
 
 
 # Quiz
-Index.html and script.js contain the basic code developed in the tutorial psoted above plus an extra feature to count right answers. Index1.html and script1.js are slightly nicer versions with a button to start the quiz.
+- Index.html and script.js contain the basic code developed in the tutorial posted above plus an extra feature to count right answers. 
+- Index1.html and script1.js are slightly nicer versions with a button to start the quiz.
