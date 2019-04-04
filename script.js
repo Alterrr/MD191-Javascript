@@ -1,5 +1,5 @@
 var quiz = [ // this array holds the question number, questions and answers. 
-  [1, "Question 1", "1"],
+  [1, "Question 1", "1"], //make sure to have your answers all lowercase
   [2, "Question 2", "2"],
   [3, "Question 3", "3"]
 ];
