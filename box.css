@@ -1,0 +1,9 @@
+.container {
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  border-collapse: separate;
+  margin: 30px;
+  padding: 25px;
+  text-align: center;
+  }
