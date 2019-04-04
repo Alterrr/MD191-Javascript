@@ -5,7 +5,7 @@ document.write("test");
 }
 function runQuiz() {
   var quiz = [
-    [1, "Question 1", "1"],
+    [1, "Question 1", "1"], //answers must be all lowercase
     [2, "Question 2", "2"],
     [3, "Question 3", "3"]
   ];
